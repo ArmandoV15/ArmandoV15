@@ -1,6 +1,6 @@
 ### Hi there 👋 I'm Armando Valdez
-
-Im a currently a Senior Computer Science Major and Math Minor at Gonzaga University :mortar_board:
+____________________________________
+Senior Computer Science Major and Math Minor at Gonzaga University :mortar_board:
 
 
 <!--
