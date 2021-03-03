@@ -1,4 +1,7 @@
-### Hi there 👋
+### Hi there 👋 I'm Armando Valdez
+
+Im a currently a Senior Computer Science Major and Math Minor at Gonzaga University :mortar_board:
+
 
 <!--
 **ArmandoV15/ArmandoV15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
