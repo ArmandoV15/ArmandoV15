@@ -1,16 +1,16 @@
 ### Hi there 👋 I'm Armando Valdez
 ____________________________________
-Senior Computer Science Major and Math Minor at Gonzaga University :mortar_board: :computer:
+- Graduate in Computer Science Major and Math Minor at Gonzaga University :mortar_board: :computer:
+- Associate Software developer at Expeditors. (Seattle)
 ____________________________________
 ### 🔭 I’m currently working on ...
-- Senior Design Project Sponsored by Boeing: The Boeing Company :airplane:
-- Developing Personal Website :bust_in_silhouette:
+- Side projects which include Swift Applications
+- Studying Angular for work purposes
 - Honing my CS Fundamental and Algorithm skills :chart_with_upwards_trend:
 ____________________________________
 ### 🌱 I’m currently learning ...
-- Cryptology :satellite:
-- Data Science Algorithms :bar_chart:
-- Design & Analysis of Complex Algorithms :mag_right:
+- Anglular
+- NGRX
 ____________________________________
 ### 📫 How to reach me: ...
 - Email: Armandov0510@gmail.com
