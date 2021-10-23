@@ -1,15 +1,14 @@
 ### Hi there 👋 I'm Armando Valdez
 ____________________________________
-- Graduate in Computer Science Major and Math Minor at Gonzaga University :mortar_board: :computer:
-- Associate Software developer at Expeditors. (Seattle)
+- Graduated with a BS in Computer Science and a Minor in Math from Gonzaga University :mortar_board: :computer:
+- Associate Software developer at Expeditors. (Seattle, WA)
 ____________________________________
 ### 🔭 I’m currently working on ...
-- Side projects which include Swift Applications
-- Studying Angular for work purposes
-- Honing my CS Fundamental and Algorithm skills :chart_with_upwards_trend:
+- Front-End development for web based applications
+- Swift Side project through co-owed LLC
 ____________________________________
 ### 🌱 I’m currently learning ...
-- Anglular
+- Angular
 - NGRX
 ____________________________________
 ### 📫 How to reach me: ...
