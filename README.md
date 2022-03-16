@@ -5,11 +5,13 @@ ____________________________________
 ____________________________________
 ### 🔭 I’m currently working on ...
 - Front-End development for web based applications
-- Swift Side project through co-owed LLC
+- Redesign of personal website/portfolio
+- Data Structures and Algorithms refresher
 ____________________________________
 ### 🌱 I’m currently learning ...
 - Angular
 - NGRX
+- Spring Boot
 ____________________________________
 ### 📫 How to reach me: ...
 - Email: Armandov0510@gmail.com
